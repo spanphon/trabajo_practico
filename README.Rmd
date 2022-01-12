@@ -1,0 +1,9 @@
+---
+title: "Trabajos prácticos para Span 362 y Span 580"
+output: github_document
+date: "Last update: `r Sys.Date()`"
+---
+
+```{r, dir-ls, echo=F}
+fs::dir_tree(recurse = T)
+```
