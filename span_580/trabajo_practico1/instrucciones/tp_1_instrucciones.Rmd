@@ -1,0 +1,124 @@
+---
+fontsize: 11pt
+geometry: margin=1in
+header-includes:
+   - \setlength\parindent{14pt}
+   - \usepackage{caption}
+   - \usepackage{tipa}
+output: pdf_document
+---
+
+\begin{center}
+\large{\textbf{Los sonidos del español | Fonética para maestros}}\\ [1ex]
+\normalsize{\emph{Trabajo práctico 1: Evaluación fonética}} \\ [1ex]
+\normalsize{otoño 2020}
+\end{center}
+
+
+
+## Resumen
+
+\noindent Cada estudiante recibirá dos grabaciones de un aprendiz de español 
+como L2. 
+La grabaciones son de un ejercicio que hizo el aprendiz al principio y al 
+final de una clase.
+El trabajo del estudiante consiste en llevar a cabo una evaluación fonética 
+del habla del aprendiz.
+La evaluación incluirá un análisis de las grabaciones (pre/post) en el cual se 
+destacan las áreas en las que el aprendiz mejoró (o no). 
+Asimismo, el estudiante desarrollará un plan personalizado para que el 
+aprendiz continúe mejorando su pronunciación.
+
+## Detalles
+
+Vas a realizar un análisis del progreso de la pronunciación de un estudiante 
+durante un periodo pre/post de aproximadamente 13 semanas. 
+A continuación tienes algunos temas que puedes tratar en el análisis:
+
+\begin{itemize}
+	\setlength\itemsep{-.2em}
+	\item la schwa \textipa{[\textschwa]}
+	\item el encadenamiento 
+	\item las oclusivas sordas
+	\item las oclusivas sonoras
+	\item los procesos de asimilación
+	\item las vibrantes
+\end{itemize}
+
+\noindent No es necesario hablar de cada cosa de la lista y puedes hablar de 
+cosas que no aparezcan en la lista. 
+Hay muchas posibilidades. 
+Tienes libertad absoluta y puedes escoger lo que veas más relevante para **tu** 
+estudiante. 
+Dicho eso, tu análisis debe incluir las siguientes características:
+
+\begin{enumerate}
+	\setlength\itemsep{-.2em}
+	\item Una descripción del historial lingüístico del aprendiz (información 
+	proveída por el profesor)
+	\item Un análisis general de la primera grabación
+	\item Un análisis de al menos tres aspectos de la segunda grabación
+	\item Algunas áreas de su pronunciación que aún tiene que mejorar y un 
+	plan para hacerlo
+\end{enumerate}
+
+\noindent Algunos detalles más acerca del ensayo.
+
+\begin{itemize}
+	\setlength\itemsep{-.2em}
+	\item Una extensión de 2 páginas (máximo)
+	\item Fuente de 12pt, times new roman, interlineado doble
+	\item Márgenes de 1 pulgada
+	\item Formato PDF
+	\item Nombre de archivo: `apellido\_analisis\_fon2020.pdf' (ej. casillas\_analisis\_fon2020.pdf)
+	\item Se entrega por canvas el día 12 de noviembre antes de las 11:59 pm
+\end{itemize}
+
+
+
+\clearpage
+
+\noindent Esquema
+
+\begin{enumerate}
+	\setlength\itemsep{-.2em}
+	\item Intro - historial lingüístico (1 párrafo)
+	\begin{itemize}
+		\setlength\itemsep{-.2em}
+		\item Edad
+		\item Lugar de nacimiento
+		\item Primera lengua (variedad)
+		\item Lenguas que habla
+		\item Cantidad de tiempo que lleva estudiando español
+		\item Variedad del español que habla
+	\end{itemize}
+	\item Un análisis general de la primera grabación (1 párrafo)
+	\begin{itemize}
+		\setlength\itemsep{-.2em}
+		\item la schwa \textipa{[\textschwa]}
+		\item el encadenamiento 
+		\item las oclusivas sordas
+		\item las oclusivas sonoras
+		\item los procesos de asimilación
+		\item las vibrantes
+		\item etc.
+	\end{itemize}
+	\item Un análisis de al menos tres aspectos de la segunda grabación (1-3 párrafos)
+	\begin{itemize}
+		\setlength\itemsep{-.2em}
+		\item 1 párrafo cada tema
+		\item Explicar tema lingüístico 
+		\item Describir cómo la pronunciación difiere de la de un nativo
+		\item Comparar su pronunación (antes/después)
+		\item Citar ejemplos concretos (ej. en el minuto 2:34 de la segunda 
+		grabación...)
+	\end{itemize}
+	\item Conclusión (1 párrafo)
+	\begin{itemize}
+		\setlength\itemsep{-.2em}
+		\item Evaluación general de su progreso
+		\item Cosas que pueda mejorar en el futuro
+		\item Cómo las va a mejorar
+	\end{itemize}
+\end{enumerate}
+

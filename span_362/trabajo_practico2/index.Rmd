@@ -1,0 +1,9 @@
+---
+output: html_document
+---
+
+
+[Trabajo práctico 1, pt. 1](http://www.jvcasillas.com/ru_teaching/ru_spanish_362/362_03_s2019/slides/00_praat/index.html#24)
+
+<meta http-equiv="refresh" content="0; url='http://www.jvcasillas.com/ru_teaching/ru_spanish_362/362_02_s2018/slides/00_praat/index.html#24'"/>
+

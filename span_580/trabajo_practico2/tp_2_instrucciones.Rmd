@@ -1,0 +1,90 @@
+---
+fontsize: 11pt
+geometry: margin=1in
+header-includes:
+   - \setlength\parindent{14pt}
+   - \usepackage{caption}
+   - \usepackage{tipa}
+output: pdf_document
+---
+
+\begin{center}
+\large{\textbf{Los sonidos del español | Fonética para maestros}}\\ [1ex]
+\normalsize{\emph{Trabajo práctico 2: Ejercicio de pronunciación}} \\ [1ex]
+\normalsize{otoño 2020}
+\end{center}
+
+
+
+## Resumen
+
+El estudiante escogerá uno de los "problemas" a los que se enfrentan los 
+aprendices de español como L2 y desarrollará una lección/serie de ejercicios
+para trabajar dicho problema.
+
+## Detalles
+
+El propósito de este trabajo práctico es ayudar al alumno a integrar los 
+ejercicios de pronunciación al currículo de su clase. 
+Para ello, primero se escogerá un área de la fonética del español que presenta 
+dificultades para el no nativo y se describirá en detalle la naturaleza del 
+problema. 
+Segundo, se desarrollará una lección completa que trabaja el anteriormente 
+referido problema mediante ejercicios de pronunciación basados en los 
+fundamentos de la adquisición de segundas lenguas que se han estudiado en 
+clase.
+
+\noindent En concreto, el estudiante entregará:  
+
+1. un informe en el cual (a) se explica el problema lingüístico, (b) se 
+detalla una lección/un ejercicio para trabajar dicho problema y (c) se describe 
+cómo se puede incorporar la lección/el ejercicio a una unidad temática de 
+clase. 
+
+2. una unidad temática formal
+
+3. un plan de lección que incluya el ejercicio de pronunciación.
+
+\noindent No se espera que el/la alumno/a desarrolle una unidad temática nueva, 
+sino que muestre cómo su ejercicio de pronunciación y plan de lección encajan 
+en una unidad temática ya existente o hipotética. Consulta al profesor en 
+caso de dudas. 
+
+\noindent Cabe recordar que el propósito del trabajo práctico es preparar al 
+alumno para el proyecto "capstone" del MAT, un portafolio.
+Por esta razón se recomienda que el estudiante tenga este objetivo en cuenta 
+durante el desarrollo del proyecto. 
+Para más información general consulta:  
+[https://tlc.rutgers.edu/wlimain/mat-portfolio-independent-study](https://tlc.rutgers.edu/wlimain/mat-portfolio-independent-study). 
+Para el desarrollo de la unidad temática (2) y el plan de lección (3) es 
+necesario usar las plantillas disponibles en línea aquí:  
+[https://span-port.rutgers.edu/mat/658-preparing-for-mat-portfolio](https://span-port.rutgers.edu/mat/658-preparing-for-mat-portfolio).  
+En concreto, véanse "Thematic Unit Project Outline" y "Sample Lesson Plan" 
+para descargar plantillas que pueden modificarse. 
+
+\clearpage
+
+## Evaluación 
+
+\noindent El trabajo práctico 2 se evaluará de la siguiente manera: 
+
+\vspace{0.2in}
+
+|    | Elemento        | Puntos |
+| :- | :-------------- | -----: |
+| 1. | Informe         |  50    |
+| 2. | Unidad temática |  10    |
+| 3. | Plan de lección |  40    |
+
+
+## Entrega 
+
+Los distintos elementos del trabajo práctico---(1), (2) y (3) descritos 
+arriba---deben entregarse en un único archivo, el cual ha de estar
+dividido por secciones (1. Informe, 2. Unidad temática, 3. Plan de lección).
+El nombre del archivo debe incluir el apellido del alumno, el nombre del 
+trabajo (tp2) y el nombre de la asignatura (ej. casillas-tp2-span580.doc). 
+Sólo se acepta un documento word (.doc, .docx). 
+El trabajo práctico se entrega el día 22 de diciembre mediante canvas bajo 
+el módulo correspondiente. 
+

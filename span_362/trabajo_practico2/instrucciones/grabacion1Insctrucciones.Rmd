@@ -1,0 +1,48 @@
+---
+title: ''
+output: pdf_document
+---
+
+
+# Lista
+
+- 'stim' es la palabra
+- 'pata' es la palabra
+- 'bata' es la palabra
+- 'taco' es la palabra
+- 'dedo' es la palabra
+- 'casa' es la palabra
+- 'gato' es la palabra
+- 'daba' es la palabra
+- 'hada' es la palabra
+- 'haga' es la palabra
+- 'en Mallorca' es la palabra
+- 'en Finlandia' es la palabra
+- 'encima' es la palabra
+- 'enano' es la palabra
+- 'hincha' es la palabra
+- 'año' es la palabra
+- 'tango' es la palabra
+- 'pala' es la palabra
+- 'alto' es la palabra
+- 'algo' es la palabra
+- 'para' es la palabra
+- 'corre' es la palabra
+- 'Enrique' es la palabra
+- 'Rosa' es la palabra
+- 'Israel' es la palabra
+- '¿Cuándo vienes?'
+- '¿Vienes a las 6?'
+
+
+# Párrafo
+
+El viento norte y el sol porfiaban sobre cuál de ellos era el más fuerte, cuando
+acertó a pasar un viajero envuelto en ancha capa. Convinieron en que quien antes
+lograra obligar al viajero a quitarse la capa sería considerado más poderoso. El
+viento norte sopló con gran furia, pero cuanto más soplaba, más se arrebujaba en
+su capa el viajero; por fin el viento norte abandonó la empresa. Entonces brilló
+el sol con ardor, e inmediatamente se despojó de su capa el viajero; por lo que
+el viento norte hubo de reconocer la superioridad del sol.
+
+

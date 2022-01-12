@@ -1,0 +1,11 @@
+PWD /Users/casillas/academia/teaching/ru_teaching/ru_spanish_362/362blogdown/static/tarea/trabajo_practico1/analisisProduccion
+INPUT /usr/local/texlive/2017/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/casillas/academia/teaching/ru_teaching/ru_spanish_362/362blogdown/static/tarea/trabajo_practico1/analisisProduccion/analisisProduccion.Rmd
+OUTPUT /Users/casillas/academia/teaching/ru_teaching/ru_spanish_362/362blogdown/static/tarea/trabajo_practico1/analisisProduccion/Output/analisisProduccion.log
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+OUTPUT /Users/casillas/academia/teaching/ru_teaching/ru_spanish_362/362blogdown/static/tarea/trabajo_practico1/analisisProduccion/Output/analisisProduccion.pdf
+INPUT /usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map

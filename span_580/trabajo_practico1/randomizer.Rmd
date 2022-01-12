@@ -1,0 +1,82 @@
+---
+output: pdf_document
+---
+
+Cory
+
+link: https://www.jvcasillas.com/span_580/trabajo_practico/trabajo_practico1/wavs/cory.zip  
+assigned:  
+
+|value                         | num|
+|:-----------------------------|---:|
+|ROBERT ABUD                   |   1|
+|MAYA B BASSUK                 |   1|
+|MARIEL CARMELO                |   1|
+|JULIEANNE JIMENEZ             |   1|
+|JAROL A PARRA RODRIGUEZ       |   1|
+|GABRIELLE TOMPKINS            |   1|
+
+Erin
+
+link: https://www.jvcasillas.com/span_580/trabajo_practico/trabajo_practico1/wavs/erin.zip  
+assigned:  
+
+|value                         | num|
+|:-----------------------------|---:|
+|MARIA I CASTILLO              |   2|
+|COURTNEY M ELDRIDGE           |   2|
+|ELIZABETH A FEDOWITZ          |   2|
+|EVA GARCIA                    |   2|
+|VIVIANA LUDENA                |   2|
+|ALYSON P LUKACHER             |   2|
+|SOPHIE H RAGONE               |   2|
+
+Lindsay
+
+link: https://www.jvcasillas.com/span_580/trabajo_practico/trabajo_practico1/wavs/lindsay.zip  
+assigned:  
+
+|value                         | num|
+|:-----------------------------|---:|
+|CHRISTOPHER ACELLO            |   3|
+|ASHLEY N CARTER               |   3|
+|KELSEY W HITCHCOCK            |   3|
+|LESTER MILLER                 |   3|
+|ENRIQUETA RODRIGUEZ DE DUNCAN |   3|
+|PATRICIA VALDEZ               |   3|
+|BRIANA M WOLFGANG             |   3|
+
+
+```{r, eval=F, echo=F}
+library(tidyverse)
+c("ROBERT ABUD", "CHRISTOPHER ACELLO", "MAYA B BASSUK", "MARIEL CARMELO", "ASHLEY N CARTER", "MARIA I CASTILLO", "COURTNEY M ELDRIDGE", "ELIZABETH A FEDOWITZ", "EVA GARCIA", "KELSEY W HITCHCOCK", "JULIEANNE JIMENEZ", "VIVIANA LUDENA", "ALYSON P LUKACHER", "LESTER MILLER", "JAROL A PARRA RODRIGUEZ", "SOPHIE H RAGONE", "ENRIQUETA RODRIGUEZ DE DUNCAN", "GABRIELLE TOMPKINS", "PATRICIA VALDEZ", "BRIANA M WOLFGANG") %>% 
+  as_tibble() %>% 
+  mutate(num = sample(x = c(1, 2, 3), size = nrow(.), replace = T)) %>% 
+  arrange(num) %>% 
+  knitr::kable()
+```
+
+\clearpage
+
+|value                         | num|
+|:-----------------------------|---:|
+|ROBERT ABUD                   |   1|
+|MAYA B BASSUK                 |   1|
+|MARIEL CARMELO                |   1|
+|JULIEANNE JIMENEZ             |   1|
+|JAROL A PARRA RODRIGUEZ       |   1|
+|GABRIELLE TOMPKINS            |   1|
+|MARIA I CASTILLO              |   2|
+|COURTNEY M ELDRIDGE           |   2|
+|ELIZABETH A FEDOWITZ          |   2|
+|EVA GARCIA                    |   2|
+|VIVIANA LUDENA                |   2|
+|ALYSON P LUKACHER             |   2|
+|SOPHIE H RAGONE               |   2|
+|CHRISTOPHER ACELLO            |   3|
+|ASHLEY N CARTER               |   3|
+|KELSEY W HITCHCOCK            |   3|
+|LESTER MILLER                 |   3|
+|ENRIQUETA RODRIGUEZ DE DUNCAN |   3|
+|PATRICIA VALDEZ               |   3|
+|BRIANA M WOLFGANG             |   3|
