@@ -11,28 +11,22 @@ output: pdf_document
 \begin{center}
 \large{\textbf{Los sonidos del español | Fonética para maestros}}\\ [1ex]
 \normalsize{\emph{Trabajo práctico 1: Evaluación fonética}} \\ [1ex]
-\normalsize{otoño 2020}
+\normalsize{otoño 2022}
 \end{center}
 
 
 
 ## Resumen
 
-\noindent Cada estudiante recibirá dos grabaciones de un aprendiz de español 
-como L2. 
-La grabaciones son de un ejercicio que hizo el aprendiz al principio y al 
-final de una clase.
-El trabajo del estudiante consiste en llevar a cabo una evaluación fonética 
-del habla del aprendiz.
-La evaluación incluirá un análisis de las grabaciones (pre/post) en el cual se 
-destacan las áreas en las que el aprendiz mejoró (o no). 
-Asimismo, el estudiante desarrollará un plan personalizado para que el 
-aprendiz continúe mejorando su pronunciación.
+\noindent Cada estudiante recibirá dos grabaciones de un aprendiz de español como L2. 
+La grabaciones son de un ejercicio que hizo el aprendiz al principio y al final de una clase.
+El trabajo del estudiante consiste en llevar a cabo una evaluación fonética del habla del aprendiz.
+La evaluación incluirá un análisis de las grabaciones (pre/post) en el cual se destacan las áreas en las que el aprendiz mejoró (o no). 
+Asimismo, el estudiante desarrollará un plan personalizado para que el aprendiz continúe mejorando su pronunciación.
 
 ## Detalles
 
-Vas a realizar un análisis del progreso de la pronunciación de un estudiante 
-durante un periodo pre/post de aproximadamente 13 semanas. 
+Vas a realizar un análisis del progreso de la pronunciación de un estudiante durante un periodo pre/post de aproximadamente 13 semanas.
 A continuación tienes algunos temas que puedes tratar en el análisis:
 
 \begin{itemize}
@@ -45,11 +39,9 @@ A continuación tienes algunos temas que puedes tratar en el análisis:
 	\item las vibrantes
 \end{itemize}
 
-\noindent No es necesario hablar de cada cosa de la lista y puedes hablar de 
-cosas que no aparezcan en la lista. 
+\noindent No es necesario hablar de cada cosa de la lista y puedes hablar de cosas que no aparezcan en la lista.
 Hay muchas posibilidades. 
-Tienes libertad absoluta y puedes escoger lo que veas más relevante para **tu** 
-estudiante. 
+Tienes libertad absoluta y puedes escoger lo que veas más relevante para **tu** estudiante.
 Dicho eso, tu análisis debe incluir las siguientes características:
 
 \begin{enumerate}
@@ -71,7 +63,7 @@ Dicho eso, tu análisis debe incluir las siguientes características:
 	\item Márgenes de 1 pulgada
 	\item Formato PDF
 	\item Nombre de archivo: `apellido\_analisis\_fon2020.pdf' (ej. casillas\_analisis\_fon2020.pdf)
-	\item Se entrega por canvas el día 12 de noviembre antes de las 11:59 pm
+	\item Se entrega por canvas el día 16 de noviembre antes de las 11:59 pm
 \end{itemize}
 
 
