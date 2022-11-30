@@ -2,9 +2,9 @@
 output: pdf_document
 ---
 
-Cory: https://www.spanphon.jvcasillas.com/trabajo_practico/span_580/trabajo_practico1/wavs/cory.zip  
-Erin: https://www.jvcasillas.com/span_580/trabajo_practico/trabajo_practico1/wavs/erin.zip  
-Lindsay: https://www.jvcasillas.com/span_580/trabajo_practico/trabajo_practico1/wavs/lindsay.zip  
+- Cory: https://github.com/spanphon/trabajo_practico/raw/main/span_580/trabajo_practico1/wavs/cory.zip 
+- Erin: https://github.com/spanphon/trabajo_practico/raw/main/span_580/trabajo_practico1/wavs/erin.zip
+- Lindsay: https://github.com/spanphon/trabajo_practico/raw/main/span_580/trabajo_practico1/wavs/lindsay.zip  
 
 
 ```{r, eval=F, echo=F}

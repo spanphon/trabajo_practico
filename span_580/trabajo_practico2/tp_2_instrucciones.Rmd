@@ -11,7 +11,7 @@ output: pdf_document
 \begin{center}
 \large{\textbf{Los sonidos del español | Fonética para maestros}}\\ [1ex]
 \normalsize{\emph{Trabajo práctico 2: Ejercicio de pronunciación}} \\ [1ex]
-\normalsize{otoño 2020}
+\normalsize{otoño 2022}
 \end{center}
 
 
@@ -85,6 +85,6 @@ dividido por secciones (1. Informe, 2. Unidad temática, 3. Plan de lección).
 El nombre del archivo debe incluir el apellido del alumno, el nombre del 
 trabajo (tp2) y el nombre de la asignatura (ej. casillas-tp2-span580.doc). 
 Sólo se acepta un documento word (.doc, .docx). 
-El trabajo práctico se entrega el día 22 de diciembre mediante canvas bajo 
+El trabajo práctico se entrega el día 21 de diciembre mediante canvas bajo 
 el módulo correspondiente. 
 
