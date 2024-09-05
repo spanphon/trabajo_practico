@@ -1,9 +1,10 @@
 Trabajos prácticos para Span 362 y Span 580
 ================
-Last update: 2022-01-11
+Last update: 2024-09-04
 
     ## .
     ## ├── README.Rmd
+    ## ├── README.md
     ## ├── span_362
     ## │   ├── trabajo_practico1
     ## │   │   ├── Output
@@ -14,6 +15,7 @@ Last update: 2022-01-11
     ## │   │   │   ├── trabajo_practico.out
     ## │   │   │   ├── trabajo_practico.pdf
     ## │   │   │   └── trabajo_practico.synctex.gz
+    ## │   │   ├── trabajo_practico1.log
     ## │   │   ├── trabajo_practico1.pdf
     ## │   │   └── trabajo_practico1.tex
     ## │   └── trabajo_practico2
@@ -45,6 +47,12 @@ Last update: 2022-01-11
     ## │   │       ├── erin.zip
     ## │   │       └── lindsay.zip
     ## │   └── trabajo_practico2
+    ## │       ├── exs
+    ## │       │   ├── Carmelo Lesson Plan-Casillas.docx
+    ## │       │   ├── Lukacher2-TP2-SPA 580.docx
+    ## │       │   ├── Paulson_TP2_Span580.pdf
+    ## │       │   ├── Ragone-tp2-span580.docx
+    ## │       │   └── bassuk-tp2-span580.docx
     ## │       ├── tp_2_instrucciones.Rmd
     ## │       └── tp_2_instrucciones.pdf
     ## └── trabajo_practico.Rproj

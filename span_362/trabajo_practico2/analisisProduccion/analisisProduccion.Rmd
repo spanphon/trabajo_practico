@@ -11,7 +11,7 @@ output: pdf_document
 \begin{center}
 \large{\textbf{Análisis de produccion}}\\ [1ex]
 \normalsize{\emph{Fonética y fonología españolas}} \\ [1ex]
-\normalsize{otoño 2020}
+\normalsize{otoño 2024}
 \end{center}
 
 
@@ -55,7 +55,7 @@ tienes que entregar un ensayo que cuente con las siguientes características:
 	\item Fuente de 12pt, times new roman, interlineado doble
 	\item Márgenes de 1 pulgada
 	\item Formato PDF
-	\item Nombre de archivo: `apellido\_analisis\_fon2020.pdf' (ej. casillas\_analisis\_fon2018.pdf)
+	\item Nombre de archivo: `apellido\_analisis\_fon2024.pdf' (ej. casillas\_analisis\_fon2024.pdf)
 	\item Se entrega por canvas el día 8 de mayo antes de las 2:30 pm
 \end{itemize}
 
